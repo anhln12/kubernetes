@@ -1,6 +1,6 @@
 Practice questions for CKA exam
 
-1. A kubeconfig file called admin.kubeconfig has been created in /root. There is something wrong with the configuration. Troubleshoot and fix it.
+A kubeconfig file called admin.kubeconfig has been created in /root. There is something wrong with the configuration. Troubleshoot and fix it.
 
 <details><summary>show</summary>
 <p>
